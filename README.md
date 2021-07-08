@@ -16,3 +16,9 @@ Advance of this i have connect the website to amazon ec2 and it will be used in 
 
 
 ![Screenshot (130)](https://user-images.githubusercontent.com/83824286/124959720-2432d180-e039-11eb-880f-3c3a0d193607.png)
+
+
+Flask Server Running
+
+
+![Screenshot (132)](https://user-images.githubusercontent.com/83824286/124959854-4b899e80-e039-11eb-9c88-213835dbf78e.png)
