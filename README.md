@@ -25,7 +25,7 @@ Flask Server Running
 
 
 
-##################################################
+
 Deploy Model To Production
 1. Setup nginx on windows
 2. Launch EC2 instance on aws 
