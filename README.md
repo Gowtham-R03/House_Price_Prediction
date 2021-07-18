@@ -1,7 +1,8 @@
 # House_Price_Prediction
 Chennai and Bangalore House Price Prediction Using Machine Learning Algorithm.
-Developed a python flask server which act as backend for the website which going predict the sale prices.
-Advance of this i have connect the website to amazon ec2 and it will be used in future production purpose.
+Developed a python flask server that acts as a backend for the website which going to predict the sale prices.
+The advance of this I have connected the website to amazon ec2 and it will be used for future production purposes.
+
 
 
 1. UI of Chennai House Price Prediction
